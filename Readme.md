@@ -6,9 +6,9 @@ Recognize and manipulate faces from Python or from the command line with the wor
 
 ## Requirements
 
-asyncio
+CMake
 
-aiohttp
+face-recognition
 
 #
 ## Features
